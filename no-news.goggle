@@ -5,6 +5,10 @@
 ! homepage: https://github.com/ic3man5
 ! avatar: #ffffff
 
+$discard,site=apnews.com
+$discard,site=cnbc.com
+$discard,site=bbc.com
+$discard,site=democracydocket.com
 /section/opinion^$discard,site=nytimes.com
 $discard,site=vox.com
 $discard,site=thedailybeast.com
